@@ -1,5 +1,5 @@
 class profile::web {
-  include ngnix
+  include nginx
   }
   
   
